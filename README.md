@@ -1,5 +1,9 @@
-[![MasterHead](https://moodle.acs.gr/pluginfile.php/725517/course/overviewfiles/coding.gif)](https://github.com)
+<a href="https://github.com" target="_blank">
+  <img src="https://gifdb.com/images/high/ai-finger-print-recognition-zl4ku51ojamo22k9.gif" alt="MasterHead" style="width: 100%; max-width: 1600px; height: auto;">
+</a>
 
+
+<h1 align="center">Hi 👋, I'm Ankita</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 - 🔭 I’m currently working on **Optimising Canada's Inflation**
