@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Optimising Canada's Inflation**
 
-- 🌱 I’m currently learning **MLOPS**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Machine Learning**
 
