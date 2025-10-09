@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Ankita</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 🔭 I’m currently working on **Optimising Canada's Inflation**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Machine Learning**
 
